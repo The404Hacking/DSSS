@@ -48,9 +48,9 @@ Requirements
 
 
 ## Download and Clone
-> Download: Click [Here](https://github.com/The404Hacking/BruteSploit/archive/master.zip) (BruteSploit-master.zip)
+> Download: Click [Here](https://github.com/The404Hacking/DSSS/archive/master.zip) (DSSS-master.zip)
 
-> Clone: git clone [https://github.com/The404Hacking/BruteSploit.git](https://github.com/The404Hacking/BruteSploit.git)
+> Clone: git clone [https://github.com/The404Hacking/DSSS.git](https://github.com/The404Hacking/DSSS.git)
 
 ## The404Hacking | Digital UnderGround Team
 [The404Hacking](https://T.me/The404Hacking)
